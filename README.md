@@ -52,5 +52,3 @@ pip install requests beautifulsoup4
    Write the extracted data to a CSV or JSON file for further analysis.
  ### 3. Pagination: 
    Scrape multiple pages by iterating over page URLs.
-
-Let me know if you’d like to expand this scraper!
